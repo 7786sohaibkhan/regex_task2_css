@@ -1,0 +1,32 @@
+
+/* assignment 2 css
+ #task 3
+ SIRSS1264 
+ sohaib khan*/
+
+.column {
+  
+    float: left; 
+    width: 33.33% ;
+    padding: auto;
+   
+  
+}
+
+.split{
+        margin-right: 5%;
+        margin-left: 5%;
+        width: 90%;
+
+}
+
+.middle{
+    border-left:2px solid black;
+    height: 220px;
+}
+
+.right{
+    border-left:2px solid black;
+    height: 220px;
+}
+

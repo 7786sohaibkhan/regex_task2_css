@@ -1,0 +1,27 @@
+/*
+    assignment 2 css
+    #task 1
+    SIRSS1264 
+    sohaib khan
+*/
+
+body {
+   font-family: algerian;
+   color: #99722b;
+   background-color: black;
+}
+
+
+.exo{
+   
+    background-image: url("backgrounds.jpg");
+    width: 360px;
+    height: 580px;
+	padding: 60px;
+	
+    position: relative;
+    margin: 30px auto 30px auto ;
+
+
+}
+
